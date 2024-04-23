@@ -1,5 +1,5 @@
 # Credit Card_Financial Dashboard
-**Slide link** : [https://my.visme.co/view/y40yn7w4-credit-card-weekly-dashboard#s1](url)
+**Slide link** : https://my.visme.co/view/y40yn7w4-credit-card-weekly-dashboard#s1 \
 **Power BI Dashboard**\
 ***CREDIT CARD WEEKLY STATUS REPORT***\
 **Project Objective**
